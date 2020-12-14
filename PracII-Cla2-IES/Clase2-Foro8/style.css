@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background:rgb(160, 247, 225)
+}
+
+h2 {
+    text-align: center;    
+    font-family: 'Lato', sans-serif;
+    font-size: 20px ;
+}
+.title{
+    width: 90%;
+    margin: -90px auto;
+}
+form{
+    border: 1px solid black;
+    padding: 30px 30px;
+    width: 65%;
+    margin: 55px auto;
+}
+.campo {
+    width: 280 px ;
+}
+.button{
+    color:rgb(0, 225, 255);
+    width: 100%;
+    text-align: center;
+} 
